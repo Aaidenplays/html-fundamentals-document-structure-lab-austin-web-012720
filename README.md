@@ -1,4 +1,4 @@
-uble passing gi# Document Structure Continued
+# Document Structure Continued
 
 ## Learning Goals
 
